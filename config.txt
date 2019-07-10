@@ -1,6 +1,6 @@
-token=NTg3MzI3ODIzODMyOTQwNTU0.XP092g.O6k-JKpniSnrLanBbqnKlDaO1dA
-owner=442443629949091861
-prefix=2
-game= Type 2Play
+token=NTk4NTM3MjI3NTI1NTU0MTc2.XSYFPw.D_P_Kt1HOWikD6rZLFlljvkEUpY
+owner=538083629461536789
+prefix=St
+game=Nevoll | StPlay
 stayinchannel=true
 songinstatus=true 
