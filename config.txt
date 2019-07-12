@@ -1,6 +1,6 @@
 token=NTk4NTM3MjI3NTI1NTU0MTc2.XSYFPw.D_P_Kt1HOWikD6rZLFlljvkEUpY
-owner=538083629461536789
-prefix=St
-game=Nevoll | StPlay
+owner=228069389533052928
+prefix=1
+game=Type 1Play
 stayinchannel=true
 songinstatus=true 
