@@ -1,5 +1,5 @@
 token=NjE2Mjk1NzUxODM5OTA3ODQx.XWaiTw.PJl_3Yq_gyI5GDbkAtJzzF_Kae4
-owner=230527444346601472
+owner=452986045936566274
 prefix=1
 game=Type 1Play
 stayinchannel=true
